@@ -1,8 +1,8 @@
 {
-    "name": "Wasi Session Generator",
-    "description": "I'm Web Session Generator by Itxx Me Wasi",
+    "name": "RYOMA Session Generator",
+    "description": "I'm Web Session Generator by PHŒNIX",
     "logo": "",
-    "repository": "https://github.com/Giftedmaurice/giftedmdV2-session-generator",
+    "repository": "https://github.com/Phoenixcx7/SESSION-GENERATOR",
     "keywords": ["@Xcelsama"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
